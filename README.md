@@ -11,17 +11,9 @@ The project is structured as a **monorepo** containing two main packages:
 
 ## 🚀 Quick Start
 
-To run the application, you will need to run both the backend and frontend servers.
+To run the application, you will need to set up both the backend and frontend. All setup instructions are located in the main README file inside the `bleep-bot` folder.
 
-### 1. Run the Backend
-
-Navigate to the backend directory and follow the instructions in its README file:
-➡️ **[Backend Instructions](./bleep-bot/README.md)**
-
-### 2. Run the Frontend
-
-In a new terminal, navigate to the frontend directory and follow the instructions in its README file (which is the same as the backend's for setup):
-➡️ **[Frontend Instructions](./bleep-bot-frontend/README.md)** (Note: The `README.md` for frontend setup is located in the backend folder.)
+➡️ **[View Setup Instructions](./bleep-bot/README.md)**
 
 ---
 
