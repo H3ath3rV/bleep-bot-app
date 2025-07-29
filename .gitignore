@@ -1,0 +1,20 @@
+# File: bleep-bot-app/.gitignore
+
+# macOS system files
+.DS_Store
+
+# Python
+bleep-bot/venv/
+bleep-bot/__pycache__/
+bleep-bot/*.pyc
+bleep-bot/src/database/*.db
+
+# Node
+bleep-bot-frontend/node_modules/
+bleep-bot-frontend/dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env*
