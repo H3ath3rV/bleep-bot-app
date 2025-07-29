@@ -5,7 +5,7 @@ This is the Bleep Bot application, designed to detect and censor profane languag
 ## ✨ Key Features
 
 - **🎯 Precise Word-Level Detection**: Uses OpenAI Whisper with word timestamps for exact profanity location.
-- **🔇 Flexible Censoring**: Choose between **muting** the audio or replacing it with a classic **"beep" tone**.
+- **🔇 Automatic Muting**: Profanity is silenced, just clean audio.
 - **🧠 Adjustable AI Model**: Select from different Whisper model sizes (`tiny`, `base`, `small`) to balance speed and accuracy.
 - **⚙️ Configurable Filter Settings**: Adjust sensitivity levels and enable/disable specific profanity categories.
 - **🔒 100% Local Processing**: All video processing happens on your server - no external uploads.
